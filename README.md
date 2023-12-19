@@ -1,0 +1,1 @@
+Complete Data Analysis through Power-BI Vizualizations and creating Dashboards and also publishing Reports and Presentations of Datasets of Airbnb for Paris City, Coke Company Dataset, Online Retail Dataset and NIke USA products.
